@@ -1,4 +1,4 @@
-##UPOW 
+#UPOW 
 
 Upow (Useful power of work) is an innovative blockchain project with a focus on solving real-world challenges of significant importance. Our goal is to craft a blockchain that seamlessly integrates with artificial intelligence, machine learning, and data training.
 
